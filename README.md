@@ -3,7 +3,7 @@
 Projekts tiek īstenots patstāvīgi. Projekta tiek aizstavēts ar prezentāciju un demo.
 Kods tiek analizēts pēc aizstavēšanas.
 
-## Analīze, projektēšan, plānošana (0.5pt)
+## Analīze, projektēšana, plānošana (0.5pt) (prezentācija)
 - Analīze - Problēmas apraksts, kāpēc tā ir aktuāla
 - Analīze - Mērķauditorija, kura lietos programmu
 - Analīze - eksistējošo risinājumu analīze, ekrānšāviņi, plusi un mīnusi
