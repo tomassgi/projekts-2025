@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "Welcome to Service Name, {first_name}!",
+    "message": "Hi {first_name},\n\nThanks for signing up for service_name! We’re excited to have you on board. Here’s what you can expect from us:\n\n- Helpful tips and guides\n- Exclusive access to new features\n- Support from our friendly community\n\nIf you have any questions, just reply to this email. Welcome aboard! 🚀\n\nBest,\nThe service_name Team",
+    "delay": 15
+  },
+  {
+    "subject": "Welcome to Service Name, {first_name}!",
+    "message": "Hi {first_name},\n\nReady to get started? Here are some quick tips to help you make the most of service_name:\n\n- Explore your personalized dashboard\n- Customize your goals and preferences\n- Check out our helpful tutorials [link]\n\nWe’re here to support you every step of the way!\n\nCheers,\nThe service_name Team",
+    "delay": 20
+  },
+  {
+    "subject": "Did you know about this feature?",
+    "message": "Hey {first_name},\n\nHave you explored our Journey Planner feature yet? It helps you map out your goals and track your progress easily. Many users love how it keeps them motivated!\n\nGive it a try today and see the difference.\n\nBest regards,\nThe service_name Team",
+    "delay": 10
+  },
+  {
+    "subject": "Final Day: Let's Stay Connected {first_name}",
+    "message": "Hi {first_name},\n\nWe hope you’re enjoying service_name so far! We’d love to hear your thoughts and feedback to help us improve.\n\nJoin our community on [social media links] or just reply to this email with your ideas.\n\nThanks for being part of the service_name family!\n\nWarm regards,\nThe service_name Team",
+    "delay": 30
+  }
+]
